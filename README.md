@@ -1,2 +1,4 @@
 # hello-world
-idk why i'm even doing this but github guide said so
+
+hello i like programming and this is tutorial
+
